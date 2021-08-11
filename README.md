@@ -34,9 +34,9 @@ this system is that they can generate / experiment cartridges, without the need 
 
 [Demo on Youtube](https://www.youtube.com/watch?v=_XW6AfT9foQ)
 
-
 ## 🔹 You can get these cartridge on:
 [eBay for All America](https://www.ebay.com/itm/313623907992?hash=item4905710e98:g:fuwAAOSw66dhBwh2)
+
 [Mercado Libre for Argentina](https://listado.mercadolibre.com.ar/cartridge-timex-sinclair-2068#D[A:cartridge%20timex%20sinclair%202068%20])
 
 
