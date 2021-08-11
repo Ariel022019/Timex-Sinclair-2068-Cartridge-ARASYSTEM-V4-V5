@@ -4,7 +4,7 @@ With its unique design, there is no need to configure bridges to select fragment
 
 ## :small_blue_diamond: Jumpers configutation for each kind of EPROM /EEPROM
 
-<img src="AraSystem_Cardtridge_v4_Jumpers.jpg" width="500" heigth="300">
+<img src="AraSystem_Cardtridge_v4_Jumpers.jpg" width="700" heigth="500">
 
 ## :small_blue_diamond: Place right way to the socket the EPROM / EEPROM 
 
