@@ -3,7 +3,8 @@ This is a cartridge for Timex Sinclair 2068, to work with EPROMs 28C64, 27C128, 
 With its unique design, there is no need to configure bridges to select fragments. The chunks can be configured for software.
 
 ## :small_blue_diamond: Jumpers configutation for each kind of EPROM /EEPROM
-![AraSystem_Cardtridge_v4_Switch](https://user-images.githubusercontent.com/54677231/128937228-8223bcc2-d83e-49a9-9dc0-a6a5f8c9c815.jpg)
+
+<img src="AraSystem_Cardtridge_v4_Jumpers.jpg">
 
 ## :small_blue_diamond: Place right way to the socket the EPROM / EEPROM 
 
