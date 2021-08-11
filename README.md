@@ -32,11 +32,11 @@ this system is that they can generate / experiment cartridges, without the need 
 
 ![CartSRAM_Inserted1](https://user-images.githubusercontent.com/54677231/129074925-584e4bde-851d-4c7e-bb9e-9bf5b16e8387.jpg)
 
-![CartSRAM_Inserted2](https://user-images.githubusercontent.com/54677231/129074928-79c83ac3-188a-4a5d-b471-76009ab6c249.jpg)
-
 [Demo on Youtube](https://www.youtube.com/watch?v=_XW6AfT9foQ)
 
 
-
+## 🔹 You can get these cartridge on:
+[eBay for All America](https://www.ebay.com/itm/313623907992?hash=item4905710e98:g:fuwAAOSw66dhBwh2)
+[Mercado Libre for Argentina](https://listado.mercadolibre.com.ar/cartridge-timex-sinclair-2068#D[A:cartridge%20timex%20sinclair%202068%20])
 
 
