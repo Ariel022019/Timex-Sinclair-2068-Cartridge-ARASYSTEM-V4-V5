@@ -9,7 +9,8 @@ With its unique design, there is no need to configure bridges to select fragment
 
 ![AraSystem_Cardtridge_v4](https://user-images.githubusercontent.com/54677231/128950245-11bbeca3-9590-4681-8e15-2be9a7c0a549.jpg)
 
-## 🔸 https://www.youtube.com/watch?v=S2ucEzxKyNs
+## 🔸 Watch the creation of the first cartridge on video
+[Youtube Video Link](https://www.youtube.com/watch?v=S2ucEzxKyNs)
 
 
 
