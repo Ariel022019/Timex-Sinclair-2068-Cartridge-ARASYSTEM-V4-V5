@@ -1,6 +1,6 @@
 # Timex-Sinclair-2068-Cartridge-ARASYSTEM-V4-V5
 This is a cartridge for Timex Sinclair 2068, to work with EPROMs 28C64, 27C128, 27C256, 27C512, EEPROMs 28C54, 28C256 and Static RAM 66256, 84256 and another with the same characteristics.  Using jumpers or mini switches, this PCB can be configured to get different settings.
-With its unique design, there is no need to configure bridges to select fragments. Can be configured for software.
+With its unique design, there is no need to configure bridges to select fragments. The chunks can be configured for software.
 
 ## :small_blue_diamond: Jumpers configutation for each kind of EPROM /EEPROM
 ![AraSystem_Cardtridge_v4_Switch](https://user-images.githubusercontent.com/54677231/128937228-8223bcc2-d83e-49a9-9dc0-a6a5f8c9c815.jpg)
@@ -33,6 +33,9 @@ this system is that they can generate / experiment cartridges, without the need 
 ![CartSRAM_Inserted1](https://user-images.githubusercontent.com/54677231/129074925-584e4bde-851d-4c7e-bb9e-9bf5b16e8387.jpg)
 
 [Demo on Youtube](https://www.youtube.com/watch?v=_XW6AfT9foQ)
+
+# 🔸 Lisence.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional</a>.
 
 ## 🔹 You can get these cartridge on:
 [eBay for All America](https://www.ebay.com/itm/313623907992?hash=item4905710e98:g:fuwAAOSw66dhBwh2)
