@@ -15,12 +15,13 @@ With its unique design, there is no need to configure bridges to select fragment
 ## 🔹 Cartridges With Mini Switches.
 These mini switches allows to divide the EPROM memory into two or four parts, depending on the size of the EPROM (32k or 64K).
 
-EPROM 27C256 divided into two 16K sizes
+### EPROM 27C256 divided into two 16K sizes
 ![ZX48kZebra](https://user-images.githubusercontent.com/54677231/129059213-8a39d051-3a47-4763-b1ea-1656a83f1a39.png)
+[Youtube Video Link](https://www.youtube.com/watch?v=SSa5LG2SbeI)
 
-EPROM 27C512 divided into four 16K sizes
+### EPROM 27C512 divided into four 16K sizes
 ![move_sw](https://user-images.githubusercontent.com/54677231/129059047-c644f615-b029-4082-88b8-8d88df5e0d29.png)
-
+[Youtube Video Link](https://www.youtube.com/watch?v=w1bCyKRASG4)
 
 
 
