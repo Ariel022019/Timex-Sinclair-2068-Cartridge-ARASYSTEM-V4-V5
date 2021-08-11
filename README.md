@@ -15,11 +15,11 @@ With its unique design, there is no need to configure bridges to select fragment
 ## 🔹 Cartridges With Mini Switches.
 These mini switches allows to divide the EPROM memory into two or four parts, depending on the size of the EPROM (32k or 64K).
 
-### ▪️ ▪️ **EPROM 27C256 divided into two 16K sizes**
+######  ▪️ ▪️ **EPROM 27C256 divided into two 16K sizes**
 ![ZX48kZebra](https://user-images.githubusercontent.com/54677231/129059213-8a39d051-3a47-4763-b1ea-1656a83f1a39.png)
 [See video example on Youtube](https://www.youtube.com/watch?v=SSa5LG2SbeI)
 
-### ▪️ ▪️ **EPROM 27C512 divided into four 16K sizes**
+######  ▪️ ▪️ **EPROM 27C512 divided into four 16K sizes**
 ![move_sw](https://user-images.githubusercontent.com/54677231/129059047-c644f615-b029-4082-88b8-8d88df5e0d29.png)
 [See video example on Youtube](https://www.youtube.com/watch?v=w1bCyKRASG4)
 
@@ -36,11 +36,13 @@ this system is that they can generate / experiment cartridges, without the need 
 
 # 🔸 License.
 
-LICENSE: CC BY NC ND 4.0
+######  UNDER LICENSE: CC BY NC ND 4.0
+- You may not use the material for commercial purposes.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Attribution-NonCommercial-NoDerivatives 4.0 International</a><br />
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+
 
 ## 🔹 You can get these cartridge on:
 [eBay for All America](https://www.ebay.com/itm/313623907992?hash=item4905710e98:g:fuwAAOSw66dhBwh2)
