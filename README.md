@@ -41,7 +41,7 @@ this system is that they can generate / experiment cartridges, without the need 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Attribution-NonCommercial-NoDerivatives 4.0 International</a><br />
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="by-nc-nd.png" witdh="200" height="100" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="by-nc-nd.png" witdh="180" height="90" /></a>
 
 
 ## 🔹 You can get these cartridge on:
