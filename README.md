@@ -8,7 +8,7 @@ With its unique design, there is no need to configure bridges to select fragment
 
 ## :small_blue_diamond: Place right way to the socket the EPROM / EEPROM 
 
-![AraSystem_Cardtridge_v4](https://user-images.githubusercontent.com/54677231/128950245-11bbeca3-9590-4681-8e15-2be9a7c0a549.jpg)
+<img src="/Images/AraSystem_Cardtridge_v4.jpg" width="700" heigth="500">
 
 ## 🔸 Watch the creation of the first cartridge on video
 [Youtube Video Link](https://www.youtube.com/watch?v=S2ucEzxKyNs)
@@ -17,11 +17,11 @@ With its unique design, there is no need to configure bridges to select fragment
 These mini switches allows to divide the EPROM memory into two or four parts, depending on the size of the EPROM (32k or 64K).
 
 ######  ▪️ ▪️ EPROM 27C256 divided into two 16K sizes
-![ZX48kZebra](https://user-images.githubusercontent.com/54677231/129059213-8a39d051-3a47-4763-b1ea-1656a83f1a39.png)
+<img src="/Images/Cart_SW2.png" width="700" heigth="500">
 [See video example on Youtube](https://www.youtube.com/watch?v=SSa5LG2SbeI)
 
 ######  ▪️ ▪️ EPROM 27C512 divided into four 16K sizes
-![move_sw](https://user-images.githubusercontent.com/54677231/129059047-c644f615-b029-4082-88b8-8d88df5e0d29.png)
+<img src="/Images/Cart_SW4.png" width="700" heigth="500">
 [See video example on Youtube](https://www.youtube.com/watch?v=w1bCyKRASG4)
 
 # 🔹 Timex SInclair 2068 Cartridge With 32K Static RAM 
@@ -29,9 +29,11 @@ This cartridge is used to expand 32K of RAM and store your own programs or data,
 Commercial programs that start in AROS mode can also be stored. (Only one game at a time, eg Flight Simulator, Androids, Crazy Bugs, Casino 1 and others).
 this system is that they can generate / experiment cartridges, without the need for burners and / or ERPOM erasers.
 
-![PCB_Battery](https://user-images.githubusercontent.com/54677231/129074867-b10c2a66-7c2e-4b69-ac1c-d613fbdba49e.png)
+<img src="/Images/Cart_SRAM_Battery.png" width="700" heigth="500">
 
-![CartSRAM_Inserted1](https://user-images.githubusercontent.com/54677231/129074925-584e4bde-851d-4c7e-bb9e-9bf5b16e8387.jpg)
+<img src="/Images/Cart_SRAM_PINs.png" width="700" heigth="500">
+
+<img src="/Images/CartSRAM_Inserted1.jpg" width="700" heigth="500">
 
 [Demo on Youtube](https://www.youtube.com/watch?v=_XW6AfT9foQ)
 
