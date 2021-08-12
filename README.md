@@ -24,15 +24,18 @@ These mini switches allows to divide the EPROM memory into two or four parts, de
 <img src="/Images/Cart_SW4.png" width="700" heigth="500">
 [See video example on Youtube](https://www.youtube.com/watch?v=w1bCyKRASG4)
 
-# 🔹 Timex SInclair 2068 Cartridge With 32K Static RAM 
+# 🔹 Timex Sinclair 2068 Cartridge With 32K Static RAM 
 This cartridge is used to expand 32K of RAM and store your own programs or data, which are stored in memory through a 3 Volt battery. Both the cartridge board and the battery holder board have their protection diodes, so as not to interfere with the voltages between them.
 Commercial programs that start in AROS mode can also be stored. (Only one game at a time, eg Flight Simulator, Androids, Crazy Bugs, Casino 1 and others).
 this system is that they can generate / experiment cartridges, without the need for burners and / or ERPOM erasers.
 
+######  ▪️ ▪️ Battery connection.
 <img src="/Images/Cart_SRAM_Battery.png" width="700" heigth="500">
 
+######  ▪️ ▪️ Static RAM located in the socket.
 <img src="/Images/Cart_SRAM_PINs.png" width="700" heigth="500">
 
+######  ▪️ ▪️ Inserted inside the Dock Bank.
 <img src="/Images/CartSRAM_Inserted1.jpg" width="700" heigth="500">
 
 [Demo on Youtube](https://www.youtube.com/watch?v=_XW6AfT9foQ)
