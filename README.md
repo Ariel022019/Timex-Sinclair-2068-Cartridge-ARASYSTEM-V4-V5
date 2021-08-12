@@ -18,10 +18,12 @@ These mini switches allows to divide the EPROM memory into two or four parts, de
 
 ######  ▪️ ▪️ EPROM 27C256 divided into two 16K sizes
 <img src="/Images/Cart_SW2.png" width="700" heigth="500">
+
 [See video example on Youtube](https://www.youtube.com/watch?v=SSa5LG2SbeI)
 
 ######  ▪️ ▪️ EPROM 27C512 divided into four 16K sizes
 <img src="/Images/Cart_SW4.png" width="700" heigth="500">
+
 [See video example on Youtube](https://www.youtube.com/watch?v=w1bCyKRASG4)
 
 # 🔹 Timex Sinclair 2068 Cartridge With 32K Static RAM 
