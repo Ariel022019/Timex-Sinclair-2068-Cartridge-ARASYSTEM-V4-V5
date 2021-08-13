@@ -14,7 +14,7 @@ If the cartridge has the jumper in mode write protect, then change the jumper in
 
 ### 🔸 Step 3. Load the file image TZX selected from the list. All these games are booting in AROS mode.
 
-### ◾ ◾ Choice some TZX files from pack_cart.zip
+### ◾ ◾ Choice some TZX files to load ,from Pack_Cart_SRAM.rar
 
 ### 🔸 Step 4. After to load the Game, the program will show this screen.
 
