@@ -1,4 +1,4 @@
-## 🔹 How to use the WriteCart Program in TS2068 for create you owns Cartridges.
+## 🔹 How to use the WriteCart program in TS2068 to create your own cartridges.
 
 [Link How To on Youtube](https://www.youtube.com/watch?v=_XW6AfT9foQ)
 
