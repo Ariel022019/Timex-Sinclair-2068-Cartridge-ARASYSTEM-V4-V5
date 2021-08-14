@@ -20,4 +20,4 @@
 ## 🔸 Cartridge scheme to use static ram and battery.
 
 <img src="Scheme_cart_sram.png" width="700" heigth="500">
-
+ 
