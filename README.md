@@ -26,6 +26,9 @@ These mini switches allows to divide the EPROM memory into two or four parts, de
 
 [See video example on Youtube](https://www.youtube.com/watch?v=w1bCyKRASG4)
 
+######  ▪️ ▪️ Combining various configurations with switches and jumpers
+<img src="/Images/Cart_Setting_Switches.jpg" width="700" heigth="500">
+
 # 🔹 Timex Sinclair 2068 Cartridge With 32K Static RAM 
 This cartridge is used to expand 32K of RAM and store your own programs or data, which are stored in memory through a 3 Volt battery. Both the cartridge board and the battery holder board have their protection diodes, so as not to interfere with the voltages between them.
 Commercial programs that start in AROS mode can also be stored. (Only one game at a time, eg Flight Simulator, Androids, Crazy Bugs, Casino 1 and others).
