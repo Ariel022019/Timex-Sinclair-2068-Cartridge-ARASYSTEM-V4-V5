@@ -1,8 +1,4 @@
-## 🔹 Files made with Eagle.
-
-###### ◾  ARA_Cartridge_V4.sch
-
-###### ◾  ARA_Cartridge_V4.brd
+# 🔹 Different Designs.
 
 ## 🔹 Cartridge scheme to replace jumpers using a switch and a jumper.
 
