@@ -1,4 +1,7 @@
-# 🔹 Different Designs.
+# 🔹 Design for every need.
+
+This cartridge can be setting according to the needs of the end user
+
 
 ## 🔹 Cartridge scheme to replace jumpers using a switch and a jumper.
 
