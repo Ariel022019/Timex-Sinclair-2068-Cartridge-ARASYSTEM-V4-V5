@@ -60,4 +60,6 @@ this system is that they can generate / experiment cartridges, without the need 
 
 [Mercado Libre for Argentina](https://listado.mercadolibre.com.ar/cartridge-timex-sinclair-2068#D[A:cartridge%20timex%20sinclair%202068%20])
 
+or Contact to: ariel.ranieri.sistemas@gmail.com
+
 
