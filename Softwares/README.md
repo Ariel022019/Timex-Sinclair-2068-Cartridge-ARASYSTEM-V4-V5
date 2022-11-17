@@ -1,6 +1,10 @@
 # 🔹 Software Pack Built for Timex Sinclair 2068 Cartridges.
 
 I have made several sets of programs for these cartridges. All files have the .Dck extension. That is means you can run this files on some Emulator like FUSE or others. Remember to skip or delete the first nine bytes when you want to write the binary file to some EPROM.
+In this section I'll focus on the new shows (most of the Spectrum games) and skip the seven classic games made for cartridges on the TS2068.
+
+You will see that in all projects, I am using teh emulator FUSE for get Snap Shot files, and then I am using the "SnapToTap R2.3 (PC/Windows), by Arda Erdikmen" for to convert from Snap Shot files to TAP format  from 
+this URL: https://worldofspectrum.net/utilities/
 
 ## 🔹 Start in Mode LROS EEPROM 28C256 or EPROM 27C256.
 
