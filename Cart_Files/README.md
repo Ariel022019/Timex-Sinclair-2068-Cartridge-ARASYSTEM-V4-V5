@@ -10,7 +10,7 @@
 
 <img src="start_process.jpg" width="700" heigth="500">
 
-If the cartridge has the jumper in mode write protect, then change the jumper in the right position.
+If the cartridge has the jumper in write-protect mode, change the jumper to the correct position.
 
 ### 🔸 Step 3. Load the file image TZX selected from the list. All these games are booting in AROS mode.
 
