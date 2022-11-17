@@ -1,4 +1,4 @@
-# Cartridge-Prototype-ARASYSTEM-V3
+# Cartridge-Prototype-ARASYSTEM-V4
 Theses were the first steps for build the unique cartridge prototye. 
 
 ## :small_blue_diamond: PCB - Scheme
@@ -23,6 +23,6 @@ Theses were the first steps for build the unique cartridge prototye.
 
 <img src="/Images/Conexion_1.jpg" width="700" heigth="500">
 
-## 🔹 The Lab.
+## 🔹 The Laboratory.
 
-<img src="/Images/Lab_1.jpg" width="700" heigth="500">
+<img src="/Images/lab_1.jpg" width="700" heigth="500">
