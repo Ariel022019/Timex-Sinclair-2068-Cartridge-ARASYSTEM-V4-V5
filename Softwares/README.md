@@ -6,8 +6,8 @@ In this section I'll focus on the new shows (most of the Spectrum games) and ski
 You will see that in all projects, I am using the emulator FUSE for get Snap Shot files, and then I am using the "SnapToTap R2.3 (PC/Windows), by Arda Erdikmen" for to convert from Snap Shot files to TAP format  from 
 this URL: [World Of Spectrum Utilities](https://worldofspectrum.net/utilities/)
 
-The binary file are created to start or boot in mode LORS () or AROS, you will find more information on this URL :
-[Cartridge Loader Maker: And Cartridge Maker AROS V2:](https://www.retrocomputacion.com/forum/hardware_s/108010/eproms-para-las-plaquetas-timex-sinclair-2068-command-cartridge-v2/&p=8) . This web page is in Spanish.
+The binary file can be created to start or boot in mode LORS [Cartridge Loader Maker:](https://www.retrocomputacion.com/forum/hardware_s/108010/eproms-para-las-plaquetas-timex-sinclair-2068-command-cartridge-v2/&p=7), or in mode AROS  [Cartridge Maker AROS V2:](https://www.retrocomputacion.com/forum/hardware_s/108010/eproms-para-las-plaquetas-timex-sinclair-2068-command-cartridge-v2/&p=8)
+Both web pages ( are in Spanish) explain as to do it.
 
 ## 🔹 Start in Mode LROS EEPROM 28C256 or EPROM 27C256.
 
