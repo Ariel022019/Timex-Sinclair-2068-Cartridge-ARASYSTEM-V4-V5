@@ -5,10 +5,24 @@ Theses were the first steps for build the unique cartridge prototye.
 
 <img src="/Images/cart_v4_especificaciones.jpg" width="700" heigth="500">
 
-## :small_blue_diamond: PCB Inserted in TS2068
+## :small_blue_diamond: PCB Prototype on Dock Bank Slot
 
 <img src="/Images/6ta.jpg" width="700" heigth="500">
 
-## 🔹 Final Design, adding owner protobard external.
+## 🔹 Final design, adding an external protobard.
 
 <img src="/Images/Final.jpg" width="700" heigth="500">
+
+## 🔹 PCB Ready!.
+
+<img src="/Images/pcb final.jpg" width="700" heigth="500">
+
+## 🔹 New PCB with components and located on Dock Bank.
+
+<img src="/Images/Conexion_2.jpg" width="700" heigth="500">
+
+<img src="/Images/Conexion_1.jpg" width="700" heigth="500">
+
+## 🔹 The Lab.
+
+<img src="/Images/Lab_1.jpg" width="700" heigth="500">
