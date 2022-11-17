@@ -10,7 +10,7 @@ With its unique design, there is no need to configure bridges to select fragment
 
 <img src="/Images/AraSystem_Cardtridge_v4.jpg" width="700" heigth="500">
 
-## 🔸 Watch the creation of the first cartridge on video
+## 🔸 Watch the creation of the first cartridge on video 
 [Youtube Video Link](https://www.youtube.com/watch?v=S2ucEzxKyNs)
 
 ## 🔹 Cartridges With Mini Switches.
