@@ -1,4 +1,4 @@
-# Cartridge-Prototype-ARASYSTEM-V4
+# 🔹  Cartridge-Prototype-ARASYSTEM-V4
 Theses were the first steps for build the unique cartridge prototye. 
 
 ## :small_blue_diamond: PCB - Scheme
