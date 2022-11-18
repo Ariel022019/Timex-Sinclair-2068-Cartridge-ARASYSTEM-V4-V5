@@ -1,0 +1,31 @@
+﻿Instrucciones para crear un Menu en Basic Para seleccionarc dos programas SnapShot. (Usar el Programa Emulador FUSE en modo TS2068).
+
+1) Crear un Snap Shot para Cartridge con arranque LROS.
+
+2) Crear un Snap Shot para Cartridge con arranque AROS.
+
+3) Cargar el Programa menu_basic_LROS_AROS.tzx . editar la linea 5 para escribir los nombres de los programas. El primer programa "1)" , ejecuta el snapshot preparado para arramcar tipo LROS. El segundo programa "2)", ejecuta el snapshot , preparado para arrancar tipo AROS.
+También se puede ejecutar un programa LROS comercial, verificando si utilizxa los dos primeros chonks (OUT 244,3), o los cuatro primeros chunks (OUT 244,15), y si el cartridge se ejecuta la primer instrucción de assembler desde la posición de memoria 5. Otras veces es necesario mantener los cinco primeros chunks (OUT 244,31), manteniendo activo el banco o chunk donde está el menu Basic de arranque AROS.
+
+4) Grabar desde el FUSE en formato binario con nombre de archivo menu_basic_LORS_AROS.bin,el resultado como Start = 26710 , Length = 320. . No exceder este límite de 320 bytes, debido a la secuencia que viene luego en la dirección de memoria 33096, el cual ejecuta un proceso de traspaso del programa snapshot via memoría de pantalla.
+
+5) Cargar el primero programa en formato binario dentro del Fuse, correspondiente a la imagen snapshot de cartridge con arranque tipo LROS. Hacer los siguientes POKES para borrar el arranque automático en modo LROS 
+POKE 32769,0 : POKE 32770,0 : POKE 32772,0 .Si el programa de memoria baja es un emulador de Spectrum (TC2048 ROM), no hacer ninún POKE
+
+6) Grabar desde el FUSE el programa en formato binario como Start = 32768 y length = 32768
+
+7) Cargar el segundo programa en formato binario dentro del Fuse, correspondiente a la imagen snapshot de cartridge con arranque tipo AROS. Hacer el siguiente POKE para modificar el tipo de AROS de assembler a Basic.
+POKE 32768,1 
+
+8) Cargar el archivo binario menu_snap_LROS_AROS.bin desde el FUSE, con el parámetro Start = 32776, y Length el que indica por el tamaño del archivo binario (320  bytes, no debe superar este tamaño por lo descripto en el punto 4).
+
+9) Cargar el archivo binario headerAros.bin desde el FUSE, con el parámetro Start = 33096, y Length el que indica por el tamaño del archivo binario (168 , respetar este tamaño).Si el programa AROS depende y necesita la ROM Spectrum , entonces realizar el siguiente POKE 33252,3, para habiliar el emulador de Spectrum de la memoria baja del DOCK Bank (OJO, el programa AROS no debe ejecutar nada en Basic, si no se resetea la 2068).
+
+10) Grabar desde el FUSE el programa en formato binario como Start = 32768 y length = 32768
+
+11) Concatenar con el comando COPY del DOS,  los dos archivos binarios modificados y grabados, para grabarlos en una EPROM 27C512, desde el programa Xgpro TL866II PLUS.
+copy /b CARTRIDGE_SMAP_LROS.bin+CARTRIDGE_SMAP_AROS.bin MI_CARTRIDGE_FINAL.bin
+Si el archivo es DCK de 65K, entonces se puede abrir desde el programa Xgpro, comenzando la dirección del archivo Hexa = 9 . Si el archivo es .bin de 64K, entonces se comienza por defaul en la dirección Hexa = 0.
+
+12) Para poder probarlo en el emulador Fuse, agregamos el header de los 9 Bytes
+copy /b Header_DOCK.bin+MI_CARTRIDGE_FINAL.bin Cartridge.dck
