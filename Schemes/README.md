@@ -22,9 +22,9 @@ This cartridge can be setting according to the needs of the end user
 
 ## 🔸 Cartridge PCB Layer TOP.
 
-<img src="PCB_TOP.png" width="700" heigth="500">
+<img src="PCB_TOP.png" width="500" heigth="300">
 
 ## 🔹 Cartridge PCB Layer Bottom.
 
-<img src="PCB_Bottom.png" width="700" heigth="500">
+<img src="PCB_Bottom.png" width="500" heigth="300">
  
