@@ -20,9 +20,9 @@ This cartridge can be setting according to the needs of the end user
 
 <img src="Scheme_cart_sram.png" width="700" heigth="500">
 
-## 🔸 Cartridge PCB Layer TOP.
+### 🔸 Cartridge PCB Layer TOP.
 
-<img src="PCB_TOP.png" width="500" heigth="300">
+<img src="PCB_TOP.png" width="300" heigth="200">
 
 ## 🔹 Cartridge PCB Layer Bottom.
 
