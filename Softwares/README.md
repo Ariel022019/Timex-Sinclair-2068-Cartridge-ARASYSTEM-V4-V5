@@ -11,7 +11,7 @@ Both web pages (they are in Spanish) explain how to do it.
 
 ## 🔹 Start in Mode LROS EEPROM 28C256 or EPROM 27C256.
 
-The stpes for make cartridges booting in LORS mode are:
+The steps for make cartridges booting in LORS mode are:
 1) From the FUSE Emulator in TS2068 mode, Load a program TZX or TAP file and then Create a Snap Shot file and save it on disk.
 2) Convert Snap Shot file to .TAP .
 3) Again From the FUSE program, load the "Cartridge Loader Maker" software and get the binary file.
@@ -19,15 +19,31 @@ The stpes for make cartridges booting in LORS mode are:
 
 ## 🔹 Start in Mode AROS EEPROM 28C256 or EPROM 27C256.
 
-The stpes for make cartridges booting in AORS mode are:
-1) From the FUSE Emulator in TS2068 mode, Load a program TZX or TAP file and then Create a Snap Shot file and save it on disk.
+The steps for make cartridges booting in AORS mode are:
+1) From the FUSE Emulator in TS2068 mode, load a program TZX or TAP file and then Create a Snap Shot file and save it on disk.
 2) Convert Snap Shot file to .TAP .
 3) Again From the FUSE program, load the "Cartridge Maker AROS V2" software and get the binary file.
 4) Burn the binary file on the eprom.
 
 ## 🔹 Start in Mode AROS With Menu from EPROM 27C512.
+Make cartridges with two Games. The steps to do are:
+Instructions for creating a Basic Menu To select two SnapShot programs. (Use the FUSE Emulator Program in TS2068 mode).
 
 <img src="Menu_Basic_AROS.png" width="700" heigth="500">
+1) Create a snapshot for cartridge with LROS boot.
+2) Create a Snap Shot for Cartridge with AROS boot.
+3) Eraase the boot LROS mode(put 0 from the second byte to fourth byte in the file) and save it.
+4) Change the boot AROS mode to AROS Basic (put 1 on the first byte in the file) and save it.
+5) From the FUSE Emulator in TS2068 mode, load the Program Menu_Basic_AROS.tzx file, then edit line 5 and write the names of the programs. The first program "1)",    executes the snapshot prepared to boot type LROS. The second program "2)", executes the snapshot, ready to start type AROS.
+6) Save from the FUSE in binary format with file name menu_basic_LORS_AROS.bin, as Start = 26710 , Length = 320.
+8) Load the binary file (created in the item 2) from memory address 32768 an then load the other binary file menu_snap_LROS_AROS.bin from the FUSE, with the Start    parameter = 32776, and Length the one indicated by the size of the binary file (320 bytes, it must not exceed this size as described above).
+
+9) Load the binary file headerAros.bin from the FUSE, with the parameter Start = 33096, and Length the one indicated by the size of the binary file (168 , respect this size).
+10) Save from the FUSE the program in binary format as Start = 32768 and length = 32768.
+11) Concatenate with the DOS COPY command, the two binary files to burn them on 27C512 EPROM (Using for example the Xgpro TL866II PLUS program). 
+    copy /b CARTRIDGE_SMAP_LROS.bin+CARTRIDGE_SMAP_AROS.bin MI_CARTRIDGE_FINAL.bin .
+12) copy /b Header_DOCK.bin+MI_CARTRIDGE_FINAL.bin Cartridge.dck
+
 
 ### 🔸 Videos Youtube
 [Cartridge: Manic Minier and Jet Set Willy](https://www.youtube.com/watch?v=gIqrhjyPwj8)
