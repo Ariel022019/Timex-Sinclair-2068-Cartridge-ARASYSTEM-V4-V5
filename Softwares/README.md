@@ -15,7 +15,7 @@ Both web pages (they are in Spanish) explain how to do it.
 
 ## 🔹 Start in Mode AROS With Menu from EPROM 27C512.
 
-<img src="/Images/Menu_Basic_AROS.png" width="700" heigth="500">
+<img src="Menu_Basic_AROS.png" width="700" heigth="500">
 
 ### 🔸 Videos Youtube
 [Cartridge: Manic Minier and Jet Set Willy](https://www.youtube.com/watch?v=gIqrhjyPwj8)
