@@ -19,4 +19,12 @@ This cartridge can be setting according to the needs of the end user
 ## 🔸 Cartridge scheme to use static ram and battery.
 
 <img src="Scheme_cart_sram.png" width="700" heigth="500">
+
+## 🔸 Cartridge PCB Layer TOP.
+
+<img src="PCB_TOP.png" width="700" heigth="500">
+
+## 🔹 Cartridge PCB Layer Bottom.
+
+<img src="PCB_Bottom.png" width="700" heigth="500">
  
