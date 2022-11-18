@@ -1,51 +1,51 @@
-# Timex-Sinclair-2068-Cartridge-ARASYSTEM-V4-V5
+## :small_blue_diamond: Timex-Sinclair-2068-Cartridge-ARASYSTEM-V4-V5
 This is a cartridge for Timex Sinclair 2068, to work with EPROMs 28C64, 27C128, 27C256, 27C512, EEPROMs 28C54, 28C256 and Static RAM 66256, 84256 and another with the same characteristics.  Using jumpers or mini switches, this PCB can be configured to get different settings.
 With its unique design, there is no need to configure bridges to select fragments. The chunks can be configured by software.
 
-## :small_blue_diamond: Jumpers configutation for each kind of EPROM /EEPROM
+### :small_blue_diamond: Jumpers configutation for each kind of EPROM /EEPROM
 
-<img src="/Images/AraSystem_Cardtridge_v4_Switch.jpg" width="700" heigth="500">
+<img src="/Images/AraSystem_Cardtridge_v4_Switch.jpg" width="500" heigth="300">
 
-## :small_blue_diamond: Place right way to the socket the EPROM / EEPROM 
+### :small_blue_diamond: Place right way to the socket the EPROM / EEPROM 
 
-<img src="/Images/AraSystem_Cardtridge_v4.jpg" width="700" heigth="500">
+<img src="/Images/AraSystem_Cardtridge_v4.jpg" width="500" heigth="300">
 
-## 🔸 Watch the creation of the first cartridge on video 
+#### 🔸 Watch the creation of the first cartridge on video 
 [Youtube Video Link](https://www.youtube.com/watch?v=S2ucEzxKyNs)
 
-## 🔹 Cartridges With Mini Switches.
+### 🔹 Cartridges With Mini Switches.
 These mini switches allows to divide the EPROM memory into two or four parts, depending on the size of the EPROM (32k or 64K).
 
 ######  ▪️ ▪️ EPROM 27C256 divided into two 16K sizes
-<img src="/Images/Cart_SW2.png" width="700" heigth="500">
+<img src="/Images/Cart_SW2.png" width="500" heigth="300">
 
 [See video example on Youtube](https://www.youtube.com/watch?v=SSa5LG2SbeI)
 
 ######  ▪️ ▪️ EPROM 27C512 divided into four 16K sizes
-<img src="/Images/Cart_SW4.png" width="700" heigth="500">
+<img src="/Images/Cart_SW4.png" width="500" heigth="300">
 
 [See video example on Youtube](https://www.youtube.com/watch?v=w1bCyKRASG4)
 
 ######  ▪️ ▪️ Combining various configurations with switches and jumpers
-<img src="/Images/Cart_Setting_Switches.jpg" width="700" heigth="500">
+<img src="/Images/Cart_Setting_Switches.jpg" width="500" heigth="300">
 
-# 🔹 Timex Sinclair 2068 Cartridge With 32K Static RAM 
+### 🔹 Timex Sinclair 2068 Cartridge With 32K Static RAM 
 This cartridge is used to expand 32K of RAM and store your own programs or data, which are stored in memory through a 3 Volt battery. Both the cartridge board and the battery holder board have their protection diodes, so as not to interfere with the voltages between them.
 Commercial programs that start in AROS mode can also be stored. (Only one game at a time, eg Flight Simulator, Androids, Crazy Bugs, Casino 1 and others).
 this system is that they can generate / experiment cartridges, without the need for burners and / or ERPOM erasers.
 
 ######  ▪️ ▪️ Battery connection.
-<img src="/Images/Cart_SRAM_Battery.png" width="700" heigth="500">
+<img src="/Images/Cart_SRAM_Battery.png" width="500" heigth="300">
 
 ######  ▪️ ▪️ Static RAM located in the socket.
-<img src="/Images/Cart_SRAM_PINs.png" width="700" heigth="500">
+<img src="/Images/Cart_SRAM_PINs.png" width="500" heigth="300">
 
 ######  ▪️ ▪️ Inserted inside the Dock Bank.
-<img src="/Images/CartSRAM_Inserted1.jpg" width="700" heigth="500">
+<img src="/Images/CartSRAM_Inserted1.jpg" width="500" heigth="300">
 
 [Demo on Youtube](https://www.youtube.com/watch?v=_XW6AfT9foQ)
 
-# 🔸 License.
+## 🔸 License.
 
 ######  UNDER LICENSE: CC BY NC ND 4.0
 - You may not use the material for commercial purposes.
@@ -55,7 +55,7 @@ this system is that they can generate / experiment cartridges, without the need 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="by-nc-nd.png" witdh="180" height="90" /></a>
 
 
-## 🔹 You can get these cartridges or more information:
+#### 🔹 You can get these cartridges or more information:
 
 Contact to: ariel.ranieri.sistemas@gmail.com
 
