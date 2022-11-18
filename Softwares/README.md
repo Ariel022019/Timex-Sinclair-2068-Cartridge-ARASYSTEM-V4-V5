@@ -17,3 +17,4 @@ Both web pages (they are in Spanish) explain how to do it.
 
 ## 🔹 Built to lung and using too much the wrist.
 This is the hardest way to build cartridges that boot the programs from any Dock Bank memory address.
+The 7Games9K.DCK (7 Games 9K bytes) and 8Games8K.DCK (8 Games 8K bytes) files are more complicated to build. It is necessary to make an installer for each of the games and place them in the best place in the eprom (27C512). And play with the eight 8Kbyte chunks, the Stack Point and other environments.
