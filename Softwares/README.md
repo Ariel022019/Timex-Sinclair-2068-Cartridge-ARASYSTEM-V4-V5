@@ -29,7 +29,7 @@ The steps for make cartridges booting in AORS mode are:
 Make cartridges with two Games. The steps to do are:
 Instructions for creating a Basic Menu To select two SnapShot programs. (Use the FUSE Emulator Program in TS2068 mode).
 
-<img src="Menu_Basic_AROS.png" width="700" heigth="500">
+<img src="Menu_Basic_AROS.png" width="300" heigth="200">
 
 1) Create a snapshot for cartridge with LROS boot.
 2) Create a Snap Shot for Cartridge with AROS boot.
