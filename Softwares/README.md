@@ -11,7 +11,19 @@ Both web pages (they are in Spanish) explain how to do it.
 
 ## 🔹 Start in Mode LROS EEPROM 28C256 or EPROM 27C256.
 
+The stpes for make cartridges booting in LORS mode are:
+1) From the FUSE Emulator in TS2068 mode, Load a program TZX or TAP file and then Create a Snap Shot file and save it on disk.
+2) Convert Snap Shot file to .TAP .
+3) Again From the FUSE program, load the "Cartridge Loader Maker" software and get the binary file.
+4) Burn the binary file on the eprom.
+
 ## 🔹 Start in Mode AROS EEPROM 28C256 or EPROM 27C256.
+
+The stpes for make cartridges booting in AORS mode are:
+1) From the FUSE Emulator in TS2068 mode, Load a program TZX or TAP file and then Create a Snap Shot file and save it on disk.
+2) Convert Snap Shot file to .TAP .
+3) Again From the FUSE program, load the "Cartridge Maker AROS V2" software and get the binary file.
+4) Burn the binary file on the eprom.
 
 ## 🔹 Start in Mode AROS With Menu from EPROM 27C512.
 
