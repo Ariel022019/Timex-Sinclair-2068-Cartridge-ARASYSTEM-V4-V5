@@ -24,5 +24,5 @@ If the cartridge has the jumper in write-protect mode, change the jumper to the 
 
 <img src="End_Procees.jpg" width="500" heigth="300">
 
-## 🔺 WARNING: Always insert and eject the cartridge while the TS2068 is turn off. 
+#### 🔺 WARNING: Always insert and eject the cartridge while the TS2068 is turn off. 
 
