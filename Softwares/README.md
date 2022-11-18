@@ -42,7 +42,7 @@ Instructions for creating a Basic Menu To select two SnapShot programs. (Use the
 9) Save from the FUSE the program in binary format as Start = 32768 and length = 32768.
 10) Concatenate with the DOS COPY command, the two binary files to burn them on 27C512 EPROM (Using for example the Xgpro TL866II PLUS program). 
     copy /b CARTRIDGE_SMAP_LROS.bin+CARTRIDGE_SMAP_AROS.bin MI_CARTRIDGE_FINAL.bin .
-11) If you want to test it in the Fuse emulator, we add the 9 Bytes header (0-2-2- 2-2-2-2-2-2) 
+11) If you want to test it in the Fuse emulator, we add the 9 Bytes header (0-2-2- 2-2-2-2-2-2)
     copy /b Header_DOCK.bin+MI_CARTRIDGE_FINAL.bin Cartridge.dck 
     
 ### 🔸 Videos Youtube
